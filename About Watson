@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Watson</title>
+</head>
+<body>
+    <header>
+        <h1>Watson</h1>
+        <p>Tudo o que você precisa saber sobre Watson</p>
+    </header>
+    <nav>
+        <a href="Sherlock.html">Home</a>
+        <a href="Filmes.html">Filmes</a>
+        <a href="livros.html">Livros</a>
+        <a href="Watson.html">Watson</a>
+        <a href="Autor.html">Autor</a>
+    </nav>
+    
+    <main>
+        <article>
+            <h1>Quem foi Watoson</h1>
+            <p><strong>John H. Watson</strong>, conhecido como Dr. Watson, é um personagem fictício das histórias de Sherlock Holmes, de Sir Arthur Conan Doyle. Junto com Sherlock Holmes, o Dr. Watson apareceu pela primeira vez no romance A Study in Scarlet (1887). O último trabalho de Doyle com Watson e Holmes é o conto <a href="https://produto.mercadolivre.com.br/MLB-994668821-livro-historias-de-sherlock-holmes-suspense-_JM"target="_blank">"A Aventura de Shoscombe Old Place"</a> (1927), embora esta não seja a última história na linha do tempo da série, que é "Seu Último Arco" (1917).
+
+            Watson é o melhor amigo, assistente e colega de apartamento de Holmes. Ele é o narrador em primeira pessoa de todas as histórias dos casos que relata, exceto quatro. Watson é descrito como um cavalheiro clássico da era vitoriana, ao contrário do mais excêntrico Holmes. Ele é astuto e inteligente, embora não consiga igualar as habilidades dedutivas do amigo.
+                
+            Como amigo e confidente de Holmes, Watson apareceu em vários filmes, séries de televisão, videogames, quadrinhos e programas de rádio.</p>
+
+        
+        </article>
+    </main>
+</body>
+</html>
