@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sherlock</title>
+</head>
+<link rel="stylesheet" href="style.css">
+<script src="sher.js"></script>
+<body>
+    <header>
+        <h1>SHERLOCK HOLMES</h1>
+        <p>Tudo o que você precisa saber sobre Sherlock Holmes.</p>
+    </header>
+    <nav>
+        <a href="Sherlock.html">Home</a>
+        <a href="Filmes.html">Filmes</a>
+        <a href="livros.html">Livros</a>
+        <a href="Watson.html">Watson</a>
+        <a href="Autor.html">Autor</a>
+    </nav>
+    <main>
+       <article>
+            <h1>Quem foi Sherlock Holmes</h1>
+            <p> <strong >Sherlock Holmes</strong>  é um personagem de ficção da literatura britânica criado pelo médico e escritor Sir Arthur Conan Doyle. Holmes é um investigador do final do século XIX e início do século XX. Sua primeira aparição foi em 1887 na revista Beeton's Christmas Annual na história Um Estudo em Vermelho.Este personagem singular conquistou o coração de leitores do mundo todo, independente de idade ou nacionalidade. Seus leitores se encantaram com sua personalidade enigmática e altiva desde o início. Talvez por isso ele tenha se transformado na criação literária mais adaptada para o cinema, a televisão, os quadrinhos, e também a mais pesquisada e investigada por inúmeros estudiosos.</p>
+            </p>
+            <p>Obsessivo na hora de decifrar um mistério, Sherlock ganhou fama ao se valer da metodologia científica e da lógica dedutiva – espécie de pensamento lógico que parte das causas para compreender os efeitos, e assim chega à conclusão mais acertada sobre certas proposições que desafiam sua compreensão.O que se sabe sobre este detetive é o que as histórias por ele protagonizadas revelam aqui e ali. Cada trama por ele vivida desnuda uma pequena fração de sua personalidade. Conclui-se, assim, que ele apresenta uma boa dose de orgulho, uma determinada tendência ao perfeccionismo, sempre acreditando que tem a resposta certa para tudo, e um ótimo faro para palpites corretos, enfim, que ele é um ser desprovido de imperfeições, como deseja seu autor, mas com certeza exibe vários defeitos.</p>
+            
+            <img src="Imagens/Sherlock.png" class="pequena" alt="Sherlock Holmes">
+
+          <h2>Primeira aparição de Sherlock Holmes</h2>
+        
+        <p>Surgido pela primeira vez em 1887 em A Study in Scarlet, a popularidade do personagem se espalhou com a primeira série de contos na The Strand Magazine, começando com "A Scandal in Bohemia" em 1891; contos adicionais apareceram desde então até 1927, totalizando quatro romances e 56 contos. Todos, exceto um, se passam nas eras vitoriana ou eduardiana, entre cerca de 1880 e 1914. A maioria é narrada pelo personagem do amigo e biógrafo de Holmes, Dr. John H. Watson, que geralmente acompanha Holmes durante suas investigações e costuma dividir quartos com ele em o endereço de <a href="https://en.wikipedia.org/wiki/221B_Baker_Street"target="_blank">221B Baker Street</a>, Londres, onde muitas das histórias começam.</p>
+
+     </article>
+    </main>
+
+    
+    
+    
+    
+       
+        
+       
+        
+ <footer>Desenvolvido Por Asta</footer>
+
+        
+
+
+
+
+
+</body>
+</html>
