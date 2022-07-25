@@ -1,0 +1,36 @@
+
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+    <h1>Livro de Sherlock Holmes</h1>
+  </header>
+    <nav>
+      <a href="Sherlock.html">Home</a>
+      <a href="Filmes.html">Filmes</a>
+      <a href="livros.html">Livros</a>
+      <a href="Watson.html">Watson</a>
+      <a href="Autor.html">Autor</a>
+  </nav>
+  
+    <article>
+      <main>
+  
+        <ul>
+            <li>Box Sherlock Holmes com 4 livros <a href="https://www.amazon.com.br/Sherlock-Holmes-Arthur-Conan-Doyle/dp/8595080836/ref=asc_df_8595080836/?tag=googleshopp00-20&linkCode=df0&hvadid=379714723401&hvpos=&hvnetw=g&hvrand=17062298758762988396&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-397827448981&psc=1" target=_blank>Clique aqui para comprar</a></li>
+        </ul> 
+        
+        <img src="Imagens/box-4-livros-sherlock.jpg" class = "pequena"alt="Box Sherlock"> 
+    </article>
+ </main>
+    
+  </body>
+  </html>
+  
