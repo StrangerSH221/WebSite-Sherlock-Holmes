@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <link rel="stylesheet" href="style.css">
+   <
+</head>
+<body>
+   <header>
+      <h1>FILMES</h1>
+      <p>Alguns Filmes de Sherlock Holmes</p>
+   </header>
+   <nav>
+      <a href="Sherlock.html">Home</a>
+      <a href="Filmes.html">Filmes</a>
+      <a href="livros.html">Livros</a>
+      <a href="">Watson</a>
+      <a href="Autor.html">Autor</a>
+  </nav>
+   <main>
+      <article>
+         <aside>
+              <ul>
+                  <li><Strong>Sherlock Holmes o jogo de sombras</Strong>
+                          <a href="https://www.youtube.com/watch?v=z8QbU7t5cTA&t=11s"Target=_blank >Clique aqui para ver o Trailer</a>
+                  </li>
+              </ul>
+            <iframe width="500" height="300" src="https://www.youtube.com/embed/z8QbU7t5cTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <ul>
+               <li><Strong>Sherlock Holmes 2009</Strong> <a href="https://www.youtube.com/watch?v=J7nJksXDBWc&t=3s" target=_blank>Clique aqui para ver o Trailer</a></li>
+            </ul>
+            <iframe width="500" height="300" src="https://www.youtube.com/embed/J7nJksXDBWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <ul>
+               <li><Strong>Holmes & Watson</Strong> <a href="https://www.youtube.com/watch?v=URwFmHj73Bw"target=_blank>Clique aqui para ver o Trailer</a></li>
+            </ul>
+            <iframe width="500" height="300" src="https://www.youtube.com/embed/URwFmHj73Bw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            
+         </aside>
+      </article>
+   </main> 
+</body>
+</html>
